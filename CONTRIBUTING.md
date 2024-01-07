@@ -6,5 +6,6 @@ If you want to contribute to this repository follow the steps below
 - [ ] Add the code
 - [ ] Create a pull request
 - [ ] In pull-request mention the day and problem statement
-- [ ] Wait for the review
+- [ ] Request for the review
+- [ ] wait for the review 
 

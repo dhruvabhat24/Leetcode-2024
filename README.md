@@ -30,5 +30,8 @@ This repository is designed to be your coding companion throughout the year 2024
 [![GitHub last commit](https://img.shields.io/github/last-commit/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/commits/main)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/dhruvabhat24/Leetcode-2024?style=social)](https://github.com/dhruvabhat24/Leetcode-2024/watchers)
+[![GitHub followers](https://img.shields.io/github/followers/dhruvabhat24?style=social)](https://github.com/dhruvabhat24)
+[![GitHub repo size](https://img.shields.io/github/repo-size/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024)
 
 Feel free to contribute, add your favorite coding challenges, and make this repository a valuable resource for the coding community! Let's code, learn, and grow together! 🌱💻

@@ -26,9 +26,16 @@ This repository is designed to be your coding companion throughout the year 2024
 [![GitHub forks](https://img.shields.io/github/forks/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/network)
 [![GitHub stars](https://img.shields.io/github/stars/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/stargazers)
 [![GitHub license](https://img.shields.io/github/license/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/blob/main/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/dhruvabhat24/Leetcode-2024)](https://github.com/Leetcode-2024/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/commits/main)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/dhruvabhat24/Leetcode-2024?style=social)](https://github.com/dhruvabhat24/Leetcode-2024/watchers)
+[![GitHub followers](https://img.shields.io/github/followers/dhruvabhat24?style=social)](https://github.com/dhruvabhat24)
+[![GitHub repo size](https://img.shields.io/github/repo-size/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024)
+[![GitHub language count](https://img.shields.io/github/languages/count/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024)
+[![GitHub top language](https://img.shields.io/github/languages/top/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024)
 
 Feel free to contribute, add your favorite coding challenges, and make this repository a valuable resource for the coding community! Let's code, learn, and grow together! 🌱💻

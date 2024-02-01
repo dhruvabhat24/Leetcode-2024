@@ -10,7 +10,7 @@
 
 | S.No | Problem | Java Code | CPP Code | Python Code | C Code |
 |------|---------|-----------|----------|-------------|--------|
-| 1    |         |           |          |             |        |
+| 1    | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/solutions/4656946/max-difference-java-basics-sorting/?envType=daily-question&envId=2024-02-01)        |  [Source code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/February/Java/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.)         | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/February/CPP/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference)         |             |        |
 | 2    |         |           |          |             |        |
 | 3    |         |           |          |             |        |
 | 4    |         |           |          |             |        |

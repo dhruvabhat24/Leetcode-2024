@@ -1,1 +1,2 @@
-
+# Approch
+The `divideArray` method in the `Solution` class takes a list of integers `nums` and an integer `k` as input. It sorts the array in ascending order and attempts to create subarrays of three elements each. For each iteration, the method checks if the difference between the maximum and minimum elements in the current subarray exceeds the threshold `k`. If any subarray violates this condition, the method returns an empty list. Otherwise, it appends the valid subarrays to the result list `ans`. The approach assumes a sorted input array and uses a step size of 3 to create subarrays. It is important to note that the code does not handle cases where the length of the input array is not a multiple of 3.

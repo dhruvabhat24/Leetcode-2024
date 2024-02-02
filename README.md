@@ -1,5 +1,6 @@
 # LeetCode 2024 Daily Challenges
 
+
 <p align="center">
   <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="Repository Logo">
 </p>

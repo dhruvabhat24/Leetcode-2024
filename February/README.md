@@ -16,7 +16,7 @@
 | 4    | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/?envType=daily-question&envId=2024-02-04)        |  [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/February/Java/Minimum%20Window%20Substring)         | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/February/CPP/Minimum%20Window%20Substring)          |             |        |
 | 5    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=daily-question&envId=2024-02-05)        | [Source code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/February/Java/First%20Unique%20Character%20in%20a%20String)           | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/February/CPP/First%20unique%20character)         |             |        |
 | 6    |[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)         |           | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/February/CPP/Group%20Anagrams)         |             |        |
-| 7    |         |           |          |             |        |
+| 7    |[Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/?envType=daily-question&envId=2024-02-07)         |           | [Source code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/February/CPP/Sort%20characters%20by%20frequency)         |             |        |
 | 8    |         |           |          |             |        |
 | 9    |         |           |          |             |        |
 | 10   |         |           |          |             |        |

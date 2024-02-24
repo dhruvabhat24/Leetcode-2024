@@ -1,0 +1,2 @@
+# Algorithm
+A priority queue sorted by time seems to work best here. Initially, person 0 and firstPerson (together with time = 0) are enqueued. Thereafter, as long as there are nodes in the queue, we pop a node off the queue. If it hasn't been visited then we mark it as visited, cycle through its neighbours and any unvisited neighbours with a later time get pushed onto the queue. When the queue is empty, the visited array can be used to deduce who is in the know.

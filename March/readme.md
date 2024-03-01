@@ -10,7 +10,7 @@
 
 | S.No | Problem | Java Code | CPP Code | Python Code | C Code |
 |------|---------|-----------|----------|-------------|--------|
-|   1  | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) |           |          |             |        |
+|   1  | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/March/Java/Maximum%20Odd%20Binary%20Number)  |          |             |        |
 |   2  |         |           |          |             |        |
 |   3  |         |           |          |             |        |
 |   4  |         |           |          |             |        |

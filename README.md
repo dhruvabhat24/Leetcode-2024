@@ -11,15 +11,16 @@
 
 ## Contributors
 
-### Java Contributors
+### Java Contributor
 [<img src="https://avatars.githubusercontent.com/u/122305929?s=400&u=91e7aecf724121f7cfce7557ebf77ac3fc985451&v=4" width="50px" height="50px">](https://github.com/dhruvabhat24)
 
-### C++ Contributors
+### C++ Contributor
 [<img src="https://avatars.githubusercontent.com/u/145255212?v=4" width="50px" height="50px">](https://github.com/Abiji-2020)
 
-### C Contributors
+### C Contributor
 [<img src="https://avatars.githubusercontent.com/u/122141906?s=400&u=8d14803d835c0fa212713be73cfdd9f58378961d&v=4" width="50px" height="50px">](https://github.com/pradyumna100903)
-
+### Python Contributor
+[<img src="https://avatars.githubusercontent.com/u/122141986?v=4" width="50px" height="50px">](https://github.com/GajananShenvi)
 ## About
 
 This repository is designed to be your coding companion throughout the year 2024. Each day, a new LeetCode challenge will be added, covering a variety of topics and difficulty levels. Embrace the challenge, enhance your problem-solving skills, and make consistent progress in your coding journey.

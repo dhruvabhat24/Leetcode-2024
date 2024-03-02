@@ -41,5 +41,6 @@ This repository is designed to be your coding companion throughout the year 2024
 [![GitHub top language](https://img.shields.io/github/languages/top/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024)
+[![DeepScan grade](https://deepscan.io/api/teams/23157/projects/26591/branches/848697/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=23157&pid=26591&bid=848697)
 
-Feel free to contribute, add your favorite coding challenges, and make this repository a valuable resource for the coding community! Let's code, learn, and grow together! 🌱💻
+### Feel free to contribute, add your favorite coding challenges, and make this repository a valuable resource for the coding community! Let's code, learn, and grow together! 🌱💻

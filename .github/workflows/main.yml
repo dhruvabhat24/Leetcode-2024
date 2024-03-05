@@ -1,0 +1,19 @@
+name: Thank You for Pull Request
+
+on:
+  pull_request:
+
+jobs:
+  thank_you:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Add comment
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          token: ${{ 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}}
+          message: |
+            Thank you for raising this pull request! We will review it as soon as possible.
+
+        

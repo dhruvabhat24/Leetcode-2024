@@ -26,7 +26,6 @@
 This repository is designed to be your coding companion throughout the year 2024. Each day, a new LeetCode challenge will be added, covering a variety of topics and difficulty levels. Embrace the challenge, enhance your problem-solving skills, and make consistent progress in your coding journey.
 
 ## Badges 🛡️
-
 [![GitHub issues](https://img.shields.io/github/issues/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/issues)
 [![GitHub forks](https://img.shields.io/github/forks/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/network)
 [![GitHub stars](https://img.shields.io/github/stars/dhruvabhat24/Leetcode-2024)](https://github.com/dhruvabhat24/Leetcode-2024/stargazers)

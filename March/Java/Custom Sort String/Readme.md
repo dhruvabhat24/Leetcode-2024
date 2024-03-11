@@ -49,3 +49,6 @@ class Solution {
 
 6. **Conversion and Return:**
    - Finally, the sorted string `ans` is converted to a string and returned.
+
+## YouTube reference 
+[Custom Sort String](https://youtu.be/RfjtRgnaol4?si=f02QE3GNMJGG7uhM)

@@ -26,7 +26,7 @@
 | Month      | [Dhruva bhat](https://github.com/dhruvabhat24)              | [Abhiji](https://github.com/Abiji-2020) | [Pradyumna](https://github.com/pradyumna100903) | [Gajanan](https://github.com/GajananShenvi)  |
 |------------|----------------------------------|---------------------------------|-----------------------------|--------------------------------|
 | January    |  Solved 31 question              |  Solved 31 question             |  Solved 12 question         |  Solved 6 question            |
-| February   |  Solved 28 question              |  Solved 29 question             |  Solved 26 question         |  Solved 15 question            |
+| February   |  Solved 29 question              |  Solved 29 question             |  Solved 26 question         |  Solved 15 question            |
 | March      |                                  |                                 |                             |                                |
 | April      |                                  |                                 |                             |                                |
 | May        |                                  |                                 |                             |                                |

@@ -21,6 +21,24 @@
 [<img src="https://avatars.githubusercontent.com/u/122141906?s=400&u=8d14803d835c0fa212713be73cfdd9f58378961d&v=4" width="50px" height="50px">](https://github.com/pradyumna100903)
 ### Python Contributor
 [<img src="https://avatars.githubusercontent.com/u/122141986?v=4" width="50px" height="50px">](https://github.com/GajananShenvi)
+
+## Number of questions Solved
+| Month      | [Dhruva bhat](https://github.com/dhruvabhat24)              | [Abhiji](https://github.com/Abiji-2020) | [Pradyumna](https://github.com/pradyumna100903) | [Gajanan](https://github.com/GajananShenvi)  |
+|------------|----------------------------------|---------------------------------|-----------------------------|--------------------------------|
+| January    |  Solved 31 question              |  Solved 31 question             |  Solved 12 question         |  Solved 6 question            |
+| February   |  Solved 28 question              |  Solved 29 question             |  Solved 26 question         |  Solved 15 question            |
+| March      |                                  |                                 |                             |                                |
+| April      |                                  |                                 |                             |                                |
+| May        |                                  |                                 |                             |                                |
+| June       |                                  |                                 |                             |                                |
+| July       |                                  |                                 |                             |                                |
+| August     |                                  |                                 |                             |                                |
+| September  |                                  |                                 |                             |                                |
+| October    |                                  |                                 |                             |                                |
+| November   |                                  |                                 |                             |                                |
+| December   |                                  |                                 |                             |                                |
+
+
 ## About
 
 This repository is designed to be your coding companion throughout the year 2024. Each day, a new LeetCode challenge will be added, covering a variety of topics and difficulty levels. Embrace the challenge, enhance your problem-solving skills, and make consistent progress in your coding journey.

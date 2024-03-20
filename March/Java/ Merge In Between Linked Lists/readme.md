@@ -17,3 +17,40 @@ This Java code defines a class `Solution` with a method `mergeInBetween` for mer
 8. **Returning the Merged List:** The method returns `list1`, which now contains the merged sublist from `list2` between indices `a` and `b`.
 
 This explanation provides a detailed understanding of how the code merges the sublist from `list2` into `list1` between specified indices, leveraging the traversal of linked lists and proper pointer manipulation.
+
+This Java code implements a method `mergeInBetween` to merge a sublist from `list2` into `list1` between indices `a` and `b`. Let's explore its functionality with examples:
+
+Consider `list1` as `[1 -> 2 -> 3 -> 4 -> 5]` and `list2` as `[6 -> 7 -> 8]`.
+
+1. **Example 1:** Merge `list2` between indices 1 and 3 in `list1`.
+
+    ```java
+    list1:  [1 -> 2 -> 3 -> 4 -> 5]
+                 ^         ^
+                 a         b
+    list2:  [6 -> 7 -> 8]
+    ```
+
+    After merging, `list1` becomes `[1 -> 6 -> 7 -> 8 -> 4 -> 5]`.
+
+2. **Example 2:** Merge `list2` between indices 0 and 2 in `list1`.
+
+    ```java
+    list1:  [1 -> 2 -> 3 -> 4 -> 5]
+             ^                ^
+             a                b
+    list2:  [6 -> 7 -> 8]
+    ```
+
+    After merging, `list1` becomes `[1 -> 6 -> 7 -> 8 -> 4 -> 5]`.
+
+Let's examine the code execution with these examples:
+
+- **Initialization:** Initially, `aListNode`, `bListNode`, and `dummyNode` are initialized.
+- **Traversing to Find Positions:** The code iterates through `list1`, decrementing `a` and `b`. When `a` reaches 0, `aListNode` is updated. When `b` reaches 0, `bListNode` is updated.
+- **Merging the Sublist:** The sublist from `list2` is merged into `list1` by updating `aListNode.next`.
+- **Finding the Tail of list2:** The tail of `list2` is found.
+- **Linking Remaining Part of list1:** The tail of `list2` is connected to the node following `bListNode`.
+- **Return:** Finally, the merged `list1` is returned.
+
+This comprehensive explanation provides insights into the algorithm's execution and its behavior with example scenarios.

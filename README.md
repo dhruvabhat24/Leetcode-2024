@@ -27,7 +27,7 @@
 |------------|----------------------------------|---------------------------------|-----------------------------|--------------------------------|
 | January    |  Solved 31 question              |  Solved 31 question             |  Solved 12 question         |  Solved 6 question            |
 | February   |  Solved 29 question              |  Solved 29 question             |  Solved 26 question         |  Solved 15 question            |
-| March      |  Solved 18 questions             |  Solved 17 questions            |  Solved 14 questions        |  Solved 7 questions            |
+| March      |  Solved 31 questions             |  Solved 31 questions            |  Solved 22 questions        |  Solved 10 questions            |
 | April      |                                  |                                 |                             |                                |
 | May        |                                  |                                 |                             |                                |
 | June       |                                  |                                 |                             |                                |

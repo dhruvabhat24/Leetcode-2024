@@ -4,7 +4,7 @@
 
 | Date   | Title  | C++ | Golang |
 |--------|--------|-----|------|
-| Apr 01 | [Lengt of Last Word](https://leetcode.com/problems/length-of-last-word/)       |     | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Length%20of%20Last%20Word%20In%20string)     |           
+| Apr 01 | [Lengt of Last Word](https://leetcode.com/problems/length-of-last-word/)       |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C%2B%2B/Length%20of%20Last%20Word%20In%20string)     | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Length%20of%20Last%20Word%20In%20string)     |           
 | Apr 02 |        |     |      |           
 | Apr 03 |        |     |      |       
 | Apr 04 |        |     |      |            |        |      |      |

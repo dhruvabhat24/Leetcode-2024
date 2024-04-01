@@ -1,5 +1,5 @@
 ### This is the draft template table. keep only those laguage colums for which you are contributing 
-| Date   | C++ | Java | JavaScript | Python | C    | Go   |
+| Date   | Title  | C++ | Java | JavaScript | Python | C    | Go   |
 |--------|-----|------|------------|--------|------|------|
 | Apr 01 |     |      |            |        |      |      |
 | Apr 02 |     |      |            |        |      |      |

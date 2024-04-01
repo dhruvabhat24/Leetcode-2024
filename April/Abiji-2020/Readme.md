@@ -4,7 +4,7 @@
 
 | Date   | Title  | C++ | Golang |
 |--------|--------|-----|------|
-| Apr 01 | [Lengt of Last Word](https://leetcode.com/problems/length-of-last-word/)       |     |      |           
+| Apr 01 | [Lengt of Last Word](https://leetcode.com/problems/length-of-last-word/)       |     | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20)     |           
 | Apr 02 |        |     |      |           
 | Apr 03 |        |     |      |       
 | Apr 04 |        |     |      |            |        |      |      |

@@ -1,6 +1,6 @@
 | Date   | Title  | C++ | Java |
 |--------|--------|-----|------|
-| Apr 01 |        |     |      |
+| Apr 01 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |     |      |
 | Apr 02 |        |     |      |
 | Apr 03 |        |     |      |
 | Apr 04 |        |     |      |

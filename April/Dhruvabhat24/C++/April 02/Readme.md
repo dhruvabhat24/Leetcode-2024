@@ -19,3 +19,4 @@ Suppose we have the strings `s = "egg"` and `t = "add"`.
 - **Result:** The method returns `true` since the strings `s` and `t` are isomorphic.
 
 This detailed explanation provides insights into how the algorithm determines whether two strings are isomorphic and demonstrates its execution with an example.
+![image](https://github.com/dhruvabhat24/Leetcode-2024/assets/122305929/f86e7fc1-7b51-4aea-9681-0569e1fc75fb)

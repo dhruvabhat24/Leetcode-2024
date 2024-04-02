@@ -19,4 +19,3 @@ Suppose we have the string: `"Hello World  "`.
 
 Therefore, the length of the last word in the string `"Hello World  "` is 4.
 
-This detailed explanation provides insights into how the algorithm calculates the length of the last word in a string and demonstrates its execution with an example.

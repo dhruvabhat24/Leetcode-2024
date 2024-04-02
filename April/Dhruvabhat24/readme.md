@@ -1,7 +1,7 @@
 | Date   | Title  | C++ | Java |
 |--------|--------|-----|------|
 | Apr 01 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2001) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2001) |
-| Apr 02 |        |     |      |
+| Apr 02 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2002) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2002) |
 | Apr 03 |        |     |      |
 | Apr 04 |        |     |      |
 | Apr 05 |        |     |      |

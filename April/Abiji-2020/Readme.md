@@ -6,7 +6,7 @@
 |--------|--------|-----|------|
 | Apr 01 | [Lengt of Last Word](https://leetcode.com/problems/length-of-last-word/)       |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C%2B%2B/Length%20of%20Last%20Word%20In%20string)     | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Length%20of%20Last%20Word%20In%20string)     |           
 | Apr 02 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)       | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C++/Isomorphic%20Strings)    | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Isomorphic%20Strings)     |           
-| Apr 03 |        |     |      |       
+| Apr 03 | [Word Search ](https://leetcode.com/problems/word-search/)       |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C%2B%2B/Word%20Search)     |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Word%20Search)      |       
 | Apr 04 |        |     |      |            |        |      |      |
 | Apr 05 |        |     |      |         
 | Apr 06 |        |     |      |           

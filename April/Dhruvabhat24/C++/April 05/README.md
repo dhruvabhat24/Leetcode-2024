@@ -1,4 +1,3 @@
-```markdown
 ## Explanation of the Code:
 
 ### Class: Solution

@@ -9,7 +9,7 @@
 | Apr 03 | [Word Search ](https://leetcode.com/problems/word-search/)       |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C%2B%2B/Word%20Search)     |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Word%20Search)      |       
 | Apr 04 | [Maxmimum Nesting Depth of Paranthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)        | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C++/Maximum%20Nesting%20Depth%20of%20Paranthesis)    | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Maximum%20Nesting%20Depth)    |        
 | Apr 05 |[Make The String Great](https://leetcode.com/problems/make-the-string-great/)       |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C++/Make%20The%20String%20Great)     | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Make%20The%20String%20Great)     |         
-| Apr 06 |        |     |      |           
+| Apr 06 | [Minimum Remove To Make Valid Parantheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)       |     |      |           
 | Apr 07 |        |     |      |            |        |      |      |
 | Apr 08 |        |     |      |            |        |      |      |
 | Apr 09 |        |     |      |            |        |      |      |

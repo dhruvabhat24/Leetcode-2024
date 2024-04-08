@@ -7,7 +7,7 @@
 | Apr 05 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2005) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2006) |
 | Apr 06 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2006) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2005) |
 | Apr 07 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2007) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2007) |
-| Apr 08 |        |     |      |
+| Apr 08 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) | [Source Code](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1226439374/) | [Source Code](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1226418438/) |
 | Apr 09 |        |     |      |
 | Apr 10 |        |     |      |
 | Apr 11 |        |     |      |

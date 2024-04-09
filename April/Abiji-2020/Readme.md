@@ -11,7 +11,7 @@
 | Apr 05 |[Make The String Great](https://leetcode.com/problems/make-the-string-great/)       |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C++/Make%20The%20String%20Great)     | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Make%20The%20String%20Great)     |         
 | Apr 06 | [Minimum Remove To Make Valid Parantheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)       |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C%2B%2B/Minimum%20Remove%20to%20Make%20Valid%20Paranthesis)     |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Minimum%20Remove%20to%20Make%20Valid%20Parantheses)      |           
 | Apr 07 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)       |[Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C++/Valid%20Parenthesis%20String)     | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Valid%20Parenthesis%20String)|            |        |      |      |
-| Apr 08 |        |     |      |            |        |      |      |
+| Apr 08 | [Number of Students unable to each lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)       |     |      |            |        |      |      |
 | Apr 09 |        |     |      |            |        |      |      |
 | Apr 10 |        |     |      |            |        |      |      |
 | Apr 11 |        |     |      |            |        |      |      |

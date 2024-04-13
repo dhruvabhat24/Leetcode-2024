@@ -10,9 +10,9 @@
 | Apr 08 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) | [Source Code](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1226439374/) | [Source Code](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/1226418438/) |
 | Apr 09 |  [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2009) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2009) |
 | Apr 10 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2010) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2010) |
-| Apr 11 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |     |      |
-| Apr 12 |        |     |      |
-| Apr 13 |        |     |      |
+| Apr 11 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2011) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2011) |
+| Apr 12 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2012) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2012) |
+| Apr 13 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2013) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2013) |
 | Apr 14 |        |     |      |
 | Apr 15 |        |     |      |
 | Apr 16 |        |     |      |

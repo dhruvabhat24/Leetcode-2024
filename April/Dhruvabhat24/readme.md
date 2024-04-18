@@ -16,8 +16,8 @@
 | Apr 14 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2014) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2014) |
 | Apr 15 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2015) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2015) |
 | Apr 16 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/April%2016) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2016) |
-| Apr 17 |        |     |      |
-| Apr 18 |        |     |      |
+| Apr 17 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/C%2B%2B/Apri%2017) | [Source Code](https://github.com/dhruvabhat24/Leetcode-2024/tree/main/April/Dhruvabhat24/Java/April%2017) |
+| Apr 18 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Source Code]() |  [Source Code] |
 | Apr 19 |        |     |      |
 | Apr 20 |        |     |      |
 | Apr 21 |        |     |      |

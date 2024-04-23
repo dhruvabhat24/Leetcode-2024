@@ -25,7 +25,7 @@
 | Apr 19 |        |     |      |            |        |      |      |
 | Apr 20 |        |     |      |            |        |      |      |
 | Apr 21 |        |     |      |            |        |      |      |
-| Apr 22 |        |     |      |            |        |      |      |
+| Apr 22 | [Open The Lock](https://leetcode.com/problems/open-the-lock/?envType=daily-question&envId=2024-04-22)        | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C++/Open%20the%20Lock%20)    | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Open%20the%20Lock)      |            |        |      |      |
 | Apr 23 |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)        | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C++/Minimum%20Height%20Trees)    | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Minimum%20Height%20Trees)      |            |        |      |      |
 | Apr 24 |        |     |      |            |        |      |      |
 | Apr 25 |        |     |      |            |        |      |      |

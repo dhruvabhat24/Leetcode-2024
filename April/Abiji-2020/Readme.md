@@ -26,7 +26,7 @@
 | Apr 20 |        |     |      |            |        |      |      |
 | Apr 21 |        |     |      |            |        |      |      |
 | Apr 22 |        |     |      |            |        |      |      |
-| Apr 23 |        |     |      |            |        |      |      |
+| Apr 23 |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)        | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/C++/Minimum%20Height%20Trees)    | [Link](https://github.com/Abiji-2020/Leetcode-2024/tree/main/April/Abiji-2020/Golang%20/Minimum%20Height%20Trees)      |            |        |      |      |
 | Apr 24 |        |     |      |            |        |      |      |
 | Apr 25 |        |     |      |            |        |      |      |
 | Apr 26 |        |     |      |            |        |      |      |
